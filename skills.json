@@ -1,0 +1,29 @@
+{
+  "project": "Graduate Skill Index",
+  "title": "Career Accelerator",
+  "description": "Bridging the gap between education and employability",
+
+  "features": [
+    {
+      "name": "Skill Development",
+      "description": "Industry relevant skills"
+    },
+    {
+      "name": "Real Projects",
+      "description": "Hands-on portfolio building"
+    },
+    {
+      "name": "Interview Prep",
+      "description": "Mock interviews and preparation"
+    },
+    {
+      "name": "Career Guidance",
+      "description": "Personalized mentorship"
+    }
+  ],
+
+  "contact": {
+    "email": "bevintop@gmail.com",
+    "phone": "+91-8015208065"
+  }
+}
